@@ -1,0 +1,7 @@
+*.xz
+*.pyc
+*.sqlite3
+
+notebooks/.ipynb_checkpoints/
+
+data/switrs/
