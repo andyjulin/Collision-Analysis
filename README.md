@@ -21,5 +21,5 @@ Unless otherwise noted, all work contained on this page was performed by me, And
 
 ## Acknowledgements
 
-An excellent package for processing the SWITRS data is found at (SWITRS-to-SQLite)[https://github.com/agude/SWITRS-to-SQLite/].  The author, Alex Gude, was also the initial inspiration for looking into this dataset.
+An excellent package for processing the SWITRS data is found at [SWITRS-to-SQLite](https://github.com/agude/SWITRS-to-SQLite/).  The author, Alex Gude, was also the initial inspiration for looking into this dataset.
 
